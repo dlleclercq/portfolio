@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+#aboutHead{
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 115vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#aboutText {
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 105vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    background: navy;
+    border-radius: 30px;
+    width: 1400px;
+    left: 15%;
+}
+
+#contactText {
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+}
